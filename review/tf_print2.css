@@ -19,7 +19,9 @@
 
 /* Hidden Objects */
 
-
+nav ul, header h1, section#left, footer{
+    display: none;
+}
 
 /* Page Box Styles */
 
